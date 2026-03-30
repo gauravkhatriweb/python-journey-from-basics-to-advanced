@@ -31,7 +31,7 @@ My goal is to:
 | Day | Topic | Status |
 |-----|-------|--------|
 | Day 1 | Introduction, Python origin, working of Python, installation and setup | Done |
-| Day 2 | Comments, variables, and naming rules | Pending |
+| Day 2 | Comments, variables, and naming rules | Done |
 | Day 3 | Data types, strings, and type conversion | Pending |
 | Day 4 | Input and output, operators | Pending |
 | Day 5 | If-else statements and decision making | Pending |
