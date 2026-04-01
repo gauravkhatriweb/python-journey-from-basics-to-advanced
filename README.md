@@ -34,7 +34,7 @@ My goal is to:
 | Day 2 | Comments, variables, and naming rules | Done |
 | Day 3 | Data types, strings, and type conversion | Done |
 | Day 4 | Input and output, operators | Done |
-| Day 5 | If-else statements and decision making | Pending |
+| Day 5 | If-else statements and decision making | Done |
 | Day 6 | Loop concepts and while loop practice | Pending |
 | Day 7 | For loop questions and problem solving | Pending |
 | Day 8 | Functions and reusable code | Pending |
